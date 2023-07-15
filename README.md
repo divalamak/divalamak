@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 currently working on " Alamak Roleplay "<br>⚡ Malaysia Developer
+🔭 currently working on " AlamaK "<br>⚡ AlamaK Developer
 
 
 # 💻 Tech Stack:
